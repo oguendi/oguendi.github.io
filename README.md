@@ -1,12 +1,11 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Ossama Michael</title>
+<title>Page Title</title>
 </head>
 <body>
 
-<h1>Update will follow soon</h1>
-<p>Keep following later.</p>
+<h1>Ossama Michael</h1>
+<p>Update will follow soon.</p>
 
 </body>
 </html>
