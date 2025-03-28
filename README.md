@@ -11,8 +11,8 @@
 ## Images
 
 
-![Minion] (https://octodex.github.com/images/minion.png)
-<img src="https://octodex.github.com/images/minion.png" alt="W3Schools.com" style="width:220px;height:280px;">
+
+<img src="https://octodex.github.com/images/minion.png" alt="W3Schools.com" style="width:462px;height:482px;">
 
 
 </body>
